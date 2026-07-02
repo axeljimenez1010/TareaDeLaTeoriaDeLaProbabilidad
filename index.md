@@ -26,9 +26,7 @@
 
 Dentro de esta sección están todas las prácticas de laboratorio realizadas durante la Unidad 1. 🧐
 
-🗄️👁️‍🗨️[Contenidos de la Unidad 1](contenidosunidad1.md) 
-
-📖⌨️[Tareas entregadas en la Unidad 1](tareasentregadasu1.md) 
+🗄️👁️‍🗨️[Prácticas de Laboratorio de la Unidad 1](practicasLaboratorioU1.md) 
 
 ---
 
@@ -36,9 +34,7 @@ Dentro de esta sección están todas las prácticas de laboratorio realizadas du
 
 A continuacion en estas dos secciones estan almacenadas las prácticas de laboratorio que se realizaron en la Unidad.
 
-🔎[Contenidos de la Unidad 2](contenidosunidad2.md)
-
-✏️📃[Tareas entregadas en la Unidad 2](tareasentregadasu2.md)
+🔎[Contenidos de la Unidad 2](practicasLaboratorioU2.md)
 
 
 ---
