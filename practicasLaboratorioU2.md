@@ -15,3 +15,7 @@ Durante la Unidad 2, el aprendizaje clave fue la transición hacia la Inferencia
 **Dificultades superadas:** El principal reto conceptual fue diferenciar matemáticamente cuándo aplicar una prueba Z frente a una T de Student, y asimilar la teoría detrás de la comparación de múltiples grupos. Logré superar esta barrera analizando el rol de las varianzas desconocidas y comprendiendo la necesidad rigurosa de ejecutar pruebas Post-Hoc (como Tukey) para localizar con exactitud dónde radican las diferencias significativas después de un ANOVA.
 
 ---
+
+<p align="right">
+  <a href="index.md">Volver a la página principal</a>
+</p>
