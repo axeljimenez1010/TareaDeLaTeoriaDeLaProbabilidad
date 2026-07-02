@@ -21,3 +21,7 @@ El concepto que más consolidó mi aprendizaje fue el Teorema del Límite Centra
 **Dificultades superadas:** El mayor reto de la unidad fue conceptualizar y diferenciar las distribuciones discretas notables (como Poisson o Binomial). Al inicio me resultaba confuso identificar qué modelo probabilístico exacto debía aplicar a cada tipo de problema. Pero logré superar esto analizando detenidamente las propiedades de las variables aleatorias en cada ejercicio, lo que me permitió dejar de depender de la intuición y empezar a plantear soluciones basadas en criterios puramente estadísticos.
 
 ---
+
+<p align="right">
+  <a href="index.md">Volver a la página principal</a>
+</p>
