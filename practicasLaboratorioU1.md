@@ -1,3 +1,4 @@
+### 🔹 Unidad 1: INTRODUCCIÓN A LA PROBABILIDAD. MODELOS PROBABILÍSTICOS 
 * [🔗 Guía de Laboratorio APE 00 - Fundamentos de Probabilidad y Espacios Muestrales](https://colab.research.google.com/drive/13rqVDQxlJ6QIW6DYFImQ_cp2fJz-Su1W?usp=sharing).
   
 * [🔗 Guía de Laboratorio APE 01 - Variables Aleatorias y Distribuciones de Probabilidad](enlace_al_archivo_en_github)
