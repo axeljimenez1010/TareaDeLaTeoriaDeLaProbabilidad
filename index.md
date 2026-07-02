@@ -40,6 +40,13 @@ A continuacion en estas dos secciones estan almacenadas las prácticas de labora
 ---
 
 ### ⚙️ Unidad 3
+---
+
+### ⚙️ Dataset Regional
+
+En esta sección esta adjunto el dataset que se utilizó durante toda la unidad para realizar las prácticas de laboratorio correspondiente.
+
+🗾⛅ [Dataset Regional](https://drive.google.com/file/d/1qIMyYWvXuYYJMZu5jxvIJg5D0ZkueveS/view?usp=sharing)
 
 En el útlimo apartado al igual que en los anteriores esta sección almacena las prácticas de laboratorio realizadas en la Unidad 3.
 
