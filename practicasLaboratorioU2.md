@@ -10,6 +10,8 @@
 ---
 
 ## 📝 Bitácora de Autoevaluación (Unidad 2)
-Durante la Unidad 2, el mayor reto algorítmico fue transicionar de la estadística descriptiva pura a la abstracción de librerías de inferencia como `scipy.stats` y `statsmodels`. Comprender los parámetros matemáticos como los grados de libertad ($df$), el error estándar y el estadístico de prueba fue clave para entender que el software no es una "caja negra".
+Durante la Unidad 2, el aprendizaje clave fue la transición hacia la Inferencia Estadística. Comprendí cómo validar suposiciones sobre toda una población a partir de muestras utilizando intervalos de confianza y Pruebas de Hipótesis. Dominar la interpretación del Valor-p y el Análisis de Varianza (ANOVA de 1 factor) me permitió entender la estadística como un criterio matemático estricto para la toma de decisiones demostrables.
 
-**Dificultades superadas:** Estructurar correctamente el dataset lineal continuo para que un algoritmo de ANOVA y la posterior prueba Post-Hoc de Tukey pudieran segmentarlo y comparar varianzas inter-grupales con precisión.
+**Dificultades superadas:** El principal reto conceptual fue diferenciar matemáticamente cuándo aplicar una prueba Z frente a una T de Student, y asimilar la teoría detrás de la comparación de múltiples grupos. Logré superar esta barrera analizando el rol de las varianzas desconocidas y comprendiendo la necesidad rigurosa de ejecutar pruebas Post-Hoc (como Tukey) para localizar con exactitud dónde radican las diferencias significativas después de un ANOVA.
+
+---
