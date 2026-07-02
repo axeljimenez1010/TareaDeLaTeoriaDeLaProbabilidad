@@ -43,8 +43,5 @@ A continuacion en estas dos secciones estan almacenadas las prácticas de labora
 
 En el útlimo apartado al igual que en los anteriores esta sección almacena las prácticas de laboratorio realizadas en la Unidad 3.
 
-📑[Contenidos de la Unidad 3](contenidosunidad3.md)
-
-👨‍🏫[Tareas entregadas en la Unidad 3](tareasentregadasu3.md)
-
 ---
+
