@@ -22,7 +22,7 @@ Este APE trató sobre las variables aleatorias y las distribuciones de probabili
 
 Este APE trató sobre las distribuciones muestrales y el Teorema del Límite Central (TLC), abordando temas como la distribución muestral de medias y proporciones, y la aplicación de las distribuciones t-Student y Chi-cuadrado para la estimación estadística mediante intervalos de confianza.
 
-* [🔗 Guía de Laboratorio APE 02 - Distribuciones Muestrales y Teorema del Limite Central](enlace_al_archivo_en_github)
+* [🔗 Guía de Laboratorio APE 02 - Distribuciones Muestrales y Teorema del Limite Central](https://colab.research.google.com/drive/1TvnKxduuNY1GedufAhSlzCS6hxujNwJj?usp=sharing)
 
 ---
 
@@ -39,7 +39,7 @@ Este APE trató sobre la diferenciación y aplicación de variables aleatorias d
 Este APE trató sobre el cálculo de la esperanza matemática y la varianza, aplicando análisis estadísticos a datasets regionales mediante Python para fortalecer la comprensión de momentos estadísticos y estimadores insesgados.
 
 
-* [🔗 Guía de Laboratorio APE 04 - Momentos Estadísticos y Análisis de Tendencia Central con Python](enlace_al_archivo_en_github)
+* [🔗 Guía de Laboratorio APE 04 - Momentos Estadísticos y Análisis de Tendencia Central con Python](https://colab.research.google.com/drive/19vFsNMeRLstgY1iNguzJsf44_-qgn0HX?usp=sharing)
 
 ---
 
