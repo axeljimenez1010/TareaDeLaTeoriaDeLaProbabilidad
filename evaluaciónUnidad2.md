@@ -1,1 +1,13 @@
+# 💻2️⃣ Evaluación Sumativa Unidad 02: Inferencia Estadística y Diagnóstico Paramétrico (ABP)
 
+--- 
+
+Esta evaluación sumativa final consiste en la integración de los conocimientos adquiridos en la Unidad 2, mediante tres componentes: el desarrollo técnico de pruebas de hipótesis (unimuestrales y comparación de grupos) en un Jupyter Notebook con rigor estadístico, la grabación de un video de defensa que sustente la elección de las pruebas y la interpretación de los resultados obtenidos, y la entrega de un portafolio digital sistematizado que recopile y documente toda la producción académica y el procesamiento de datos regionales de Loja.
+
+--- 
+
+#### Link del Video de Defensa Unidad 2 
+
+(Video Defensa Evaluación Unidad 2)[]
+
+--- 
