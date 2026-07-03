@@ -8,11 +8,11 @@ Esta evaluación sumativa final consiste en la integración de los conocimientos
 
 #### Link Collab
 
-* [Evaluación Sumativa U2](https://colab.research.google.com/drive/1TL3jZFyWlFhV0Bnt1CAMxDfomEDuWkpR?usp=sharing)
+* 📝⚙️[Evaluación Sumativa U2](https://colab.research.google.com/drive/1TL3jZFyWlFhV0Bnt1CAMxDfomEDuWkpR?usp=sharing)
 
 #### 🔗 Link del Video de Defensa Unidad 2 
 
-* 🎥🎬 [Video Defensa Evaluación Unidad 2]()
+* 🎥🎬 [Video Defensa Evaluación Unidad 2](https://drive.google.com/file/d/1fGyl0oMRf8572ESw8-4oyr5uU1kDbxeX/view?usp=sharing)
 
 --- 
 
