@@ -14,7 +14,7 @@ Este APE trató de la comprensión de los fundamentos de probabilidad, incluyend
 
 Este APE trató sobre las variables aleatorias y las distribuciones de probabilidad, enfocándose en la distinción entre variables discretas y continuas, el cálculo e interpretación de la esperanza matemática y la varianza, así como la aplicación práctica de las distribuciones binomial y normal
   
-* [🔗 Guía de Laboratorio APE 01 - Variables Aleatorias y Distribuciones de Probabilidad](enlace_al_archivo_en_github)
+* [🔗 Guía de Laboratorio APE 01 - Variables Aleatorias y Distribuciones de Probabilidad](https://colab.research.google.com/drive/1XIYm4x3nNlf-_qRsEVrgG5Rn-T8KVygB?usp=sharing)
 
 ---
 
