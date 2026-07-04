@@ -28,6 +28,8 @@ Dentro de esta sección están todas las prácticas de laboratorio realizadas du
 
 🗄️👁️‍🗨️[Prácticas de Laboratorio de la Unidad 1 (APE)](practicasLaboratorioU1.md) 
 
+🗒️[Evaluación de la Unidad 1](evaluaciónUnidad1.md)
+
 ---
 
 ### 🗄️ Unidad 2
